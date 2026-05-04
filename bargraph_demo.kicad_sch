@@ -2,8 +2,15 @@
 	(version 20260306)
 	(generator "eeschema")
 	(generator_version "10.0")
-	(uuid 9674f31e-2665-4a8d-9aeb-516010ac4c5f)
+	(uuid "9674f31e-2665-4a8d-9aeb-516010ac4c5f")
 	(paper "A4")
+	(title_block
+		(title "bargraph_demo")
+		(date "%%date%%")
+		(rev "%%version%%")
+		(company "@stoppattern")
+		(comment 1 "651系 速度計 デモ基板")
+	)
 	(lib_symbols)
 	(sheet_instances
 		(path "/"
